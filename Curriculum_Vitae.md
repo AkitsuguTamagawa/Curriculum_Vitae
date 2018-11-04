@@ -161,12 +161,13 @@
     - Swift(2014/09 ~ )
 - Android
     - Java(2014/04 ~ )
-    - Kotlin(2017/09 ~)
+    - Kotlin(2017/09 ~ )
 - クロスプラットフォーム
-    - ReactNative(2017/10 ~)
+    - ReactNative(2017/10 ~ )
 - Web
-    - JavaScript(2017/10 ~)
-    - React.js(2017/10 ~)
+    - JavaScript(2017/10 ~ )
+    - React.js(2017/10 ~ )
+    - Nightwatch.js(2018/09 ~ )
 
 ### 登壇
 - [ヒカラボ](https://career.levtech.jp/hikalab/event/detail/43/)
