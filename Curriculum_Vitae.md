@@ -1,6 +1,6 @@
 # 職務経歴書
 
-# 基本情報
+## 基本情報
 
 |||
 |---|-----|
@@ -33,7 +33,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ## 株式会社スペースマーケット
 
-- <strong>Spacemarket</strong>
+- **Spacemarket**
   - 時期：2018/09 ~ 現在
   - 役割：SETエンジニア
   - 技術：JavaScript, Selenium, Nightwatch.js
@@ -45,7 +45,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>Spacemarket</strong>
+- **Spacemarket**
   - 時期：2018/07 ~ 現在
   - 役割：フロントエンドエンジニア(4人体制)
   - 技術：React.js, JavaScript, ServiceWorker, OneSignal
@@ -56,7 +56,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>Spacemarket for Host(クロスプラットフォームアプリ開発)</strong>
+- **Spacemarket for Host(クロスプラットフォームアプリ開発)**
   - 時期：2017/10 ~ 現在
   - 役割：フロントエンドエンジニア(既存アプリのリニューアルを1人で対応)
   - 技術：ReactNative, JavaScript
@@ -67,7 +67,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>Spacemarket for Android</strong>
+- **Spacemarket for Android**
   - 時期：2016/09 ~ 現在
   - 役割：Androidエンジニア(iOSをベースに4ヶ月でリリース, 半年ほど1人体制・途中から3人体制)
   - 技術：Android Studio, Java, Kotlin
@@ -79,13 +79,13 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>WWDC 2016参加</strong>
+- **WWDC 2016参加**
   - 1人での海外出張(ホテル等も全て自分で取ったのでドミトリーに泊まる)
   - [UserInterfaceLab]に参加しiOSアプリをAppleのスタッフに見てもらい。英語でフィードバックをもらう
 
 ---
 
-- <strong>SpaceMarket for iOS</strong>
+- **SpaceMarket for iOS**
   - 時期：2015/11 ~ 現在
   - 役割：iOSエンジニア(1年ほど1人体制・途中から3人体制)
   - 技術：Xcode, Swift, Objective-C
@@ -97,7 +97,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ## 株式会社アライズ
 
-- <strong>IoT案件(受託案件)</strong>
+- **IoT案件(受託案件)**
   - 時期：2015/08 ~ 2015/10
   - 役割：iOSエンジニア(1人体制)
   - 技術：Xcode, Swift
@@ -109,7 +109,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>TBSエンターテインメントアプリ作成(受託案件)</strong>
+- **TBSエンターテインメントアプリ作成(受託案件)**
   - 時期：2014/11 ~ 2015/03
   - 役割：iOSエンジニア(2人体制)
   - 技術：Xcode, Objective-C
@@ -122,7 +122,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>美容室向け会計アプリ(自社アプリ)</strong>
+- **美容室向け会計アプリ(自社アプリ)**
   - 時期：2014/08 ~ 2015/07
   - 役割：iOSエンジニア(4人体制)
   - 技術：Xcode, Objective-C
@@ -132,7 +132,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
   
 ---
 
-- <strong>集英社エンターテインメントアプリ作成(受託案件)</strong>
+- **集英社エンターテインメントアプリ作成(受託案件)**
   - 時期：2014/12 ~ 2014/07
   - 役割：iOSエンジニア(2人体制)
   - 技術：Xcode, Swift
@@ -144,7 +144,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>テレビ朝日エンターテインメントアプリ作成(受託案件)</strong>
+- **テレビ朝日エンターテインメントアプリ作成(受託案件)**
   - 時期：2014/01 ~ 2014/06
   - 役割：iOSエンジニア(2人体制)
   - 技術：Xcode, Objective-C
@@ -155,7 +155,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
 
 ---
 
-- <strong>ニュース記事サイトのアプリ改修(受託案件)</strong>
+- **ニュース記事サイトのアプリ改修(受託案件)**
   - 時期：2013/11 ~ 2014/04
   - 役割：iOSエンジニア(3人体制)
   - 技術：Xcode, Objective-C
@@ -163,7 +163,7 @@ iOSエンジニアからAndroidエンジニアへ転向し、Android版のスペ
     - 既存アプリの改修
     - アプリ内に広告を表示する(AdMob)
 
-# 活動
+# 　活動
 
 ## 言語・プラットフォーム
 
